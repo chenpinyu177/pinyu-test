@@ -70,6 +70,9 @@ div.border {
     width:180px;
 }
 
+div.title{
+	font-size: 1.2rem;
+}
 div#child1{
 	border-style:solid;
 	border-color:#00008d;
