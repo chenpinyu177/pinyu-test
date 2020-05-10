@@ -68,9 +68,38 @@ div.border {
     border:1px solid;
     float:left;
     width:180px;
-    border-color:#556b2f;
 }
 
+div#child1{
+	border-color:#556b2f;
+}
+div#child2{
+	border-color:#556b2f;
+}
+div#child3{
+	border-color:#556b2f;
+}
+div#child4{
+	border-color:#556b2f;
+}
+div#child5{
+	border-color:#556b2f;
+}
+div#child6{
+	border-color:#556b2f;
+}
+div#child7{
+	border-color:#556b2f;
+}
+div#child8{
+	border-color:#556b2f;
+}
+div#child9{
+	border-color:#556b2f;
+}
+div#child10{
+	border-color:#556b2f;
+}
 
 div.border img{
     width:100%;
