@@ -77,6 +77,13 @@ div.title{
 	font-weight:bold;
 	
 }
+div.timeline_title{
+	font-size: 1.1rem;
+	color:#6B8E23;
+	text-align:left;
+	font-weight:bold;
+	
+}
 
 div.border img{
     width:100%;
