@@ -53,8 +53,12 @@ a:active, a:focus, a:hover {
 	margin-top: 3rem;
 }
 
+div.card_pic_container{
+	width:350px;
+	
+}
 .card-img-top {
-	width:400px;
+	width:100%;
 	height:auto;
 }
 
