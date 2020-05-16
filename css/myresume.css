@@ -53,8 +53,8 @@ a:active, a:focus, a:hover {
 	margin-top: 3rem;
 }
 
-.card-img-top img{
-	width:400px;
+.card-img-top {
+	width:200px;
 	height:auto;
 }
 
