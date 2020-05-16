@@ -58,6 +58,14 @@ div.card_title{
 	color:#6B8E23;
 	text-align:center;
 	font-weight:bold;
+}
+
+div.card_bigtitle{
+	font-size: 2.2rem;
+	color:#6B8E23;
+	text-align:center;
+	font-weight:bold;
+}
 
 .small-text {
 	font-size: 1.2rem;
