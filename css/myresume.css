@@ -102,12 +102,12 @@ div.description{
 
 .timeline::after {
   content: '';
-  background-color: #BADA55;
+  background-color:#6B8E23;
   position: absolute;
   width: 6px;
   top: 0;
   bottom: 0;
-  left: 50%;
+  left: 20%;
   margin-left: -3px;
 }
 
@@ -126,7 +126,7 @@ div.description{
   height: 25px;
   right: -12px;
   background-color: white;
-  border: 4px solid #BADA55;
+  border: 2px solid #6B8E23;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -139,7 +139,7 @@ div.description{
 
 /* Place the container to the right */
 .timeline-right {
-  left: 50%;
+  left: 25%;
 }
 
 /* Fix the circle for containers on the right side */
