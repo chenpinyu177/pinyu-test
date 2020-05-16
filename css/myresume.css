@@ -62,7 +62,9 @@ div#flex-container{
 	flex-wrap:wrap;
 	justify-content:flex-start;
 }
-
+table.thead{
+	background-color:#BADA55;
+}
 div.border {
     margin:5px;
     border:1px solid;
