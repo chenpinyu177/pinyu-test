@@ -53,6 +53,11 @@ a:active, a:focus, a:hover {
 	margin-top: 3rem;
 }
 
+.card-img-top img{
+	width:400px;
+	height:auto;
+}
+
 div.card_title{
 	font-size: 1.1rem;
 	color:#6B8E23;
