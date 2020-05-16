@@ -107,7 +107,7 @@ div.description{
   width: 6px;
   top: 0;
   bottom: 0;
-  left: 20%;
+  left: 1%;
   margin-left: -3px;
 }
 
@@ -139,7 +139,7 @@ div.description{
 
 /* Place the container to the right */
 .timeline-right {
-  left: 20%;
+  left: 1update%;
 }
 
 /* Fix the circle for containers on the right side */
