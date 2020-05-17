@@ -26,7 +26,7 @@ h1 .text-primary {
 }
 
 .text-primary {
-	color: #BADA55!important;
+	color: #c7a54d!important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -34,19 +34,19 @@ h1 .text-primary {
 }
 
 a {
-	color: #BADA55;
+	color: #c7a54d;
 }
 
 a:active, a:focus, a:hover {
-	color: #BADA55;
+	color: #c7a54d;
 }
 
 .social-icons a:hover {
-	background-color: #BADA55;
+	background-color: #c7a54d;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #BADA55;
+    color: #c7a54d;
 }
 
 .pic_set {
@@ -86,7 +86,7 @@ div#flex-container{
 	justify-content:flex-start;
 }
 .thead{
-	background-color:#BADA55;
+	background-color:#c7a54d;
 }
 div.border {
     margin:5px;
@@ -104,7 +104,7 @@ div.title{
 }
 div.timeline_title{
 	font-size: 1.1rem;
-	color:#BADA55;
+	color:#c7a54d;
 	text-align:left;
 	font-weight:bold;
 	
