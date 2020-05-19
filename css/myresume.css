@@ -119,7 +119,9 @@ div.card-description{
     text-align:center;
     color:#000000;
 }
-
+div.card-des-border{
+	padding:150px;
+}
 
 .small-text {
 	font-size: 1.2rem;
