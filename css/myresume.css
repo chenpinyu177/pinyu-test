@@ -52,6 +52,9 @@ a:active, a:focus, a:hover {
 div#award-container{
 	margin-top: 3rem;
 }
+div#award-container-2{
+	margin-top: 3rem;
+}
 
 
 div.flip-card{
@@ -61,6 +64,11 @@ div.flip-card{
 	perspective:1000px;
 }
 div.card-container{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+}
+div.card-container-2{
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:flex-start;
