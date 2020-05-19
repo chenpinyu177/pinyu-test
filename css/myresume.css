@@ -61,8 +61,8 @@ div.flip-card{
 }
 div.flip-card-bro{
 	background-color:transparent;
-	width:350px;
-	height:300px;
+	width:375px;
+	height:312px;
 	perspective:1000px;
 }
 div.card-container{
