@@ -52,10 +52,6 @@ a:active, a:focus, a:hover {
 div#award-container{
 	margin-top: 3rem;
 }
-div#award-container-2{
-	margin-top: 3rem;
-}
-
 
 div.flip-card{
 	background-color:transparent;
@@ -86,6 +82,9 @@ div.card-container{
 }
 
 .flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+.flip-card-bro:hover .flip-card-inner {
   transform: rotateY(180deg);
 }
 
