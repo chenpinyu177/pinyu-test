@@ -49,11 +49,11 @@ a:active, a:focus, a:hover {
     color: #c7a54d;
 }
 
-.pic_set {
+div#award-container{
 	margin-top: 3rem;
 }
 
-div.card_pic_container{
+div.flip-card{
 	width:350px;
 	
 }
@@ -69,12 +69,7 @@ div.card_title{
 	font-weight:bold;
 }
 
-div.card_bigtitle{
-	font-size: 1.3rem;
-	color:#8b4000;
-	text-align:left;
-	font-weight:bold;
-}
+
 
 .small-text {
 	font-size: 1.2rem;
