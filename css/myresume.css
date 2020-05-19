@@ -62,7 +62,7 @@ div.flip-card{
 div.flip-card-bro{
 	background-color:transparent;
 	width:375px;
-	height:275px;
+	height:270px;
 	perspective:1000px;
 }
 div.card-container{
