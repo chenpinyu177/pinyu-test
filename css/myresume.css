@@ -107,7 +107,11 @@ div.card_title{
 	line-height:350px;
 	font-weight:bold;
 }
-
+div.card-smalltitle{
+	font-size: 1.1rem;
+	color:#c7a54d;
+	text-align:center;
+}
 
 
 .small-text {
