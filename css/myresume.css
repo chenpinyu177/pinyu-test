@@ -54,7 +54,11 @@ div#flex-award-container{
 	flex-wrap:wrap;
 	justify-content:flex-start;
 }
-
+div.card-container{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+}
 div.flip-card{
 	background-color:transparent;
 	width:250px;
