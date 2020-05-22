@@ -100,7 +100,7 @@ div#flex-me-container{
   justify-content:flex-start;
 }
 .flex-container{
-  
+  display:flex;
   flex-wrap:wrap;
   justify-content:flex-start;
 }
@@ -202,7 +202,7 @@ div#flex-container{
 	justify-content:flex-start;
 }
 div.container{
-	display:flex;
+	
 	justify-content:start;
 	padding:0;
 }
