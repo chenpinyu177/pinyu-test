@@ -238,8 +238,10 @@ div.description{
     text-align:center;
 }
 
-.table{
+div#table-container{
 	padding:0;
+	display:flex;
+	justify-content:flex-start;
 }
 
 .timeline {
