@@ -91,6 +91,7 @@ a:active, a:focus, a:hover {
 
 #flex-me-container{
   display:flex;
+  flex-wrap::wrap;
   justify-content:flex-start;
 }
 .flex-container{
