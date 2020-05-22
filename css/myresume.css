@@ -49,12 +49,12 @@ a:active, a:focus, a:hover {
     color: #c7a54d;
 }
 
-.me-container {
+#me-container {
   position: relative;
   width: 50%;
 }
 
-div #me-container img {
+#me-container img {
   display: block;
    width:250px;
    height:330px;
