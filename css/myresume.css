@@ -92,7 +92,7 @@ div#me-container:hover .overlay {
 div#flex-me-container{
   display:flex;
   flex-wrap::wrap;
-  justify-content:flex-start;
+  justify-content:space-between;
 }
 .flex-container{
   display:flex;
