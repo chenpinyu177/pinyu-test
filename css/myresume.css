@@ -49,6 +49,56 @@ a:active, a:focus, a:hover {
     color: #c7a54d;
 }
 
+.me-container {
+  position: relative;
+  width: 50%;
+}
+
+div.me-container image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.me-container overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color:#faebd7;
+}
+
+.me-container:hover .overlay {
+  opacity: 1;
+}
+
+.me-card-title {
+  color:#8b4000 ;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.flex-me-container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+}
+.flex-container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+}
+
 div#flex-award-container{
 	display:flex;
 	flex-wrap:wrap;
