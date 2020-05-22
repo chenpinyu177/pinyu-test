@@ -50,7 +50,7 @@ a:active, a:focus, a:hover {
 }
 
 div#my-name{
-	padding:20px;
+	padding:0 0 20px 0;
 }
 
 div#me-container {
