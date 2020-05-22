@@ -60,7 +60,7 @@ div.me-container img {
 	height:300px;
 }
 
-.me-container overlay {
+.overlay {
   position: absolute;
   top: 0;
   bottom: 0;
