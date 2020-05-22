@@ -201,8 +201,8 @@ div#flex-container{
 	flex-wrap:wrap;
 	justify-content:flex-start;
 }
-div.container{
-	
+div#container{
+	float:left;
 	justify-content:start;
 	padding:0;
 }
