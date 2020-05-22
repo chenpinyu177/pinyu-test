@@ -49,6 +49,10 @@ a:active, a:focus, a:hover {
     color: #c7a54d;
 }
 
+div#my-name{
+	padding:30px;
+}
+
 div#me-container {
   position: relative;
   width: 250px;
