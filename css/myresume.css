@@ -238,6 +238,9 @@ div.description{
     text-align:center;
 }
 
+.table{
+	padding:0;
+}
 
 .timeline {
   position: relative;
