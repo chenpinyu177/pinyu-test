@@ -50,7 +50,7 @@ a:active, a:focus, a:hover {
 }
 
 div#my-name{
-	padding:30px;
+	padding:20px;
 }
 
 div#me-container {
@@ -94,6 +94,7 @@ div#me-container:hover .overlay {
 }
 
 div#flex-me-container{
+  padding:10px
   display:flex;
   flex-wrap::wrap;
   justify-content:space-between;
