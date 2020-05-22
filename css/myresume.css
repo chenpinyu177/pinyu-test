@@ -240,8 +240,7 @@ div.description{
 
 div#table-container{
 	padding:0;
-	display:flex;
-	justify-content:flex-start;
+	
 }
 
 .timeline {
