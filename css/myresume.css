@@ -201,6 +201,9 @@ div#flex-container{
 	flex-wrap:wrap;
 	justify-content:flex-start;
 }
+div.container{
+	padding:0;
+}
 .thead{
 	background-color:#c7a54d;
 }
