@@ -48,6 +48,9 @@ a:active, a:focus, a:hover {
 .dev-icons .list-inline-item i:hover {
     color: #c7a54d;
 }
+.study-icons .list-inline-item i:hover {
+    color: #c7a54d;
+}
 
 div#my-name{
 	padding:0 0 20px 0;
