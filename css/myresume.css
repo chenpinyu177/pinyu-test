@@ -93,12 +93,13 @@ div#me-container:hover .overlay {
   text-align: center;
 }
 
-div#flex-me-container{
+div.flex-me-container{
   padding:10px;
   display:flex;
   flex-wrap::wrap;
   justify-content:flex-start;
 }
+
 .flex-container{
   display:flex;
   flex-wrap:wrap;
