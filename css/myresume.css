@@ -37,11 +37,11 @@ h1 .text-primary {
 }
 
 a {
-	color: #c7a54d;
+	color: #8b4000;
 }
 
 a:active, a:focus, a:hover {
-	color: #8b4000;
+	color: #c7a54d;
 }
 
 .social-icons a:hover {
