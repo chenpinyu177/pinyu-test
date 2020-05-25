@@ -36,7 +36,9 @@ h1 .text-primary {
 	text-transform: none;
 }
 
-
+a{
+	color:#c7a54d;
+}
 
 a:active, a:focus, a:hover {
 	color: #8b4000;
